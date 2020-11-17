@@ -12,7 +12,7 @@
         <!-- Styles -->
         <style>
             html, body {
-                background-color: .bg-success
+                background-color: 
 ;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
@@ -21,41 +21,12 @@
                 margin: 0;
             }
 
-            .full-height {
-                height: 100vh;
-            }
-
-            .flex-center {
-               
-            }
-
-            .position-ref {
-                position: relative;
-            }
-
-            .top-right {
-                position: absolute;
-                right: 10px;
-                top: 18px;
-            }
-
-            .content {
-               
-            }
 
             .title {
                 font-size: 84px;
             }
 
-            .links > a {
-                color: #636b6f;
-                padding: 0 25px;
-                font-size: 13px;
-                font-weight: 600;
-                letter-spacing: .1rem;
-                text-decoration: none;
-                text-transform: uppercase;
-            }
+           
 
             ul {
   list-style-type: none;
@@ -125,7 +96,3 @@ li a:hover {
         </div>
     </body>
 </html>
-<img class="mySlides" src="img_snowtops.jpg">
-<img class="mySlides" src="img_lights.jpg">
-<img class="mySlides" src="img_mountains.jpg">
-<img class="mySlides" src="img_forest.png">
